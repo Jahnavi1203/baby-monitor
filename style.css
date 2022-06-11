@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    height: 40px;
+    padding: 7px;
+}
+#status #number_objects{
+    font-size: 18px;
+}
+.heading1{
+    width: 100%;
+    background-color: goldenrod;
+    font-size: 20px;
+}
+
+canvas{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 150px;
+}
